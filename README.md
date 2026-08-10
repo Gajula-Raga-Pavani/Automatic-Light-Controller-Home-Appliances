@@ -78,12 +78,6 @@ The system is designed for:
 
 ![Hardware](hardware/hardware.png)
 
-### Breadboard Implementation
-
-![Result](hardware/result.png)
-
----
-
 ##  Repository Structure
 
 ```text
@@ -147,11 +141,3 @@ Automatic-Light-Controller/
 2. Richu Sam Alex, IJEAT, 2014.
 3. Raja R, Dr. K. Uday Kumar, IJAREEIE, 2014.
 4. K.Subramanyam et al., IJERA, 2014.
-
----
-
-##  Author
-
-Kesihambigai  
-B.Tech ECE  
-VIT Vellore
